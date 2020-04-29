@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="5.6926055mm"
+   height="16.885509mm"
+   viewBox="0 0 5.6926055 16.885509"
+   version="1.1"
+   id="svg2812"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="black_note.svg">
+  <defs
+     id="defs2806" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="-88.454714"
+     inkscape:cy="30.695909"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="39"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2809">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(104.14392,-30.777484)">
+    <path
+       d="m -98.712372,30.777484 c -0.144639,0 -0.261055,0.116416 -0.261055,0.261055 v 12.625917 c -0.694972,-0.585611 -1.972023,-0.652639 -3.185583,-0.0882 -1.49578,0.694973 -2.32481,2.088445 -1.85208,3.107972 0.47625,1.023056 2.07433,1.284112 3.57011,0.592667 1.210025,-0.564444 1.986136,-1.580444 1.989664,-2.487083 0,0 0,-0.0035 0,-0.0035 v -0.01411 c 0,0 0,0 0,-0.0035 V 31.038539 c 0,-0.144639 -0.116417,-0.261055 -0.261056,-0.261055"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.03527778"
+       id="path1916"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
